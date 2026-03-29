@@ -1,0 +1,8 @@
+INSERT INTO workout (date, muscle_group, exercise, set_num, reps, weight_kg) VALUES ();
+
+UPDATE workout SET date='' WHERE id='';
+
+DELETE FROM workout WHERE id='';
+
+for x in conn.execute('SELECT * FROM workout WHERE exercise="");
+    print(x)
