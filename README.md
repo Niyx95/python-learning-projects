@@ -1,1 +1,1 @@
-This is a small repository that collect small python projects done while learning coding.
+This is a small repository that collect small python projects done while learning how to code
